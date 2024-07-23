@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a second year Ph.D. student, advised by [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
+I am a third year Ph.D. student, advised by [Prof. Jidong Zhai](https://pacman.cs.tsinghua.edu.cn/~zjd/).
 I received my BSc in Computer Science and Technology in 2022 from Tsinghua University.
 
 My research interests include machine learning systems, graph mining systems and high performance computing.
