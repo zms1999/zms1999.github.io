@@ -21,6 +21,7 @@ I am a third year Ph.D. student, advised by [Prof. Jidong Zhai](https://pacman.c
 I received my BSc in Computer Science and Technology in 2022 from Tsinghua University.
 
 My research interests include machine learning systems, graph mining systems and high performance computing.
+Currently, I am focused on Mixture-of-Expert model optimization.
 
 I was a member of [Tsinghua Student Cluster Competition team](https://sc.team/).
 
